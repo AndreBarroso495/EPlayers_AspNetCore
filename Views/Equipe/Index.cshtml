@@ -1,0 +1,12 @@
+@model Equipe
+@{
+    ViewData ["Title"] = "Equipes";
+}
+
+<form method="POST" action='ur.action("Cadastrar")'>
+    <label>ID</label>
+    <input type= "text" name="IdEquipe" />
+
+    <label>Nome</label>
+    <input type="text" name="Nome" />
+</form>
