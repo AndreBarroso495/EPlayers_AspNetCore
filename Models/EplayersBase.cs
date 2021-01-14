@@ -49,7 +49,7 @@ namespace EPlayers_AspNetCore.Models
             {
                 foreach (var item in linhas)
                 {
-                    output.Write(item +"/n");
+                    output.Write(item + "\n");
                 }
             }
 

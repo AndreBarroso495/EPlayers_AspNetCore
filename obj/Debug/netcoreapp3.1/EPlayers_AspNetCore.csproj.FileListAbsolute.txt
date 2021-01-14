@@ -12,7 +12,6 @@ C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\EPlayers_
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csprojAssemblyReference.cache
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.AssemblyInfoInputs.cache
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.AssemblyInfo.cs
-C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csproj.CoreCompileInputs.cache
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.RazorAssemblyInfo.cache
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.RazorAssemblyInfo.cs
@@ -33,5 +32,4 @@ C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\EPlayers_AspNetCore.StaticWebAssets.xml
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.dll
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.pdb
-C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.genruntimeconfig.cache
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csproj.CopyComplete
