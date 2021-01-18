@@ -4,16 +4,23 @@
 }
 
 <form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
-    <label>ID</label>
-    <input type= "text" name="IdEquipe" />
 
-    <label>Nome</label>
-    <input type="text" name="Nome" />
+    <div class="campo">
+        <label for="IdEquipe">IdEquipe</label>
+        <input type= "text" name="IdEquipe"/>
+    </div>
 
-    <label>Imagem</label>
-    <input type="file" name="Imagem"/>
+     <div class="campo">
+        <label>Nome</label>
+        <input type="text" name="Nome" />
+     </div>
 
-    <button type="Submit">Cadastrar</button>
+    <div class="campo">
+        <label>Imagem</label>
+        <input type="file" name="Imagem"/>
+    </div>
+
+    <button class="gradient btn" type="Submit">Cadastrar</button>
 </form>
 
 <table class="table table-striped table-responsive">
