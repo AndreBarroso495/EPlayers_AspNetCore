@@ -33,3 +33,5 @@ C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.dll
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.pdb
 C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\EPlayers_AspNetCore.csproj.CopyComplete
+C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
+C:\Users\fic\Desktop\Andre\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs

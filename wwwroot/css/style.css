@@ -208,6 +208,10 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(30,28,33,1) 35%, rgba(3
     font-size: 1.5em;
     text-shadow: 3px 3px 6px #000000;
 }
+
+.erro{
+    color: #fc1e8b;
+}
 footer{
     box-shadow: 0px 0px 10px black;
     color: white;

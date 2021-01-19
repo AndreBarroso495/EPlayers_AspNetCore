@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\fic\\Desktop\\Andre\\EPlayers_AspNetCore\\Views\\Jogador\\Index.cshtml",
+      "TargetPath": "Views\\Jogador\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\fic\\Desktop\\Andre\\EPlayers_AspNetCore\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -14419,6 +14424,11 @@
     {
       "FilePath": "c:\\Users\\fic\\Desktop\\Andre\\EPlayers_AspNetCore\\Views\\Equipe\\Index.cshtml",
       "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\fic\\Desktop\\Andre\\EPlayers_AspNetCore\\Views\\Login\\Index.cshtml",
+      "TargetPath": "Views\\Login\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
